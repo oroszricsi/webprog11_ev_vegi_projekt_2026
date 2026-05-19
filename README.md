@@ -1,15 +1,15 @@
 # webprog11_ev_vegi_projekt_2026
 
-Kép források:
+AI segítség:
 
-https://en.wikipedia.org/wiki/Forza_Horizon#/media/File:Forza_Horizon_boxart.jpg
+:root {
+    --primary: #d62828;
+    --secondary: #003049;
+    --light: #ffffff;
+    --dark: #1f1f1f;
+    --gray: #f3f4f6;
+    --text: #222222;
+    --text-light: #555555;
+    --shadow: 0 4px 10px black;
+}
 
-https://en.wikipedia.org/wiki/Forza_Horizon_2#/media/File:Forza_Horizon_2_Cover_Art.png
-
-https://en.wikipedia.org/wiki/Forza_Horizon_3#/media/File:Forza_horizon_3_cover_art.jpg
-
-https://en.wikipedia.org/wiki/Forza_Horizon_4#/media/File:Forza_Horizon_4_cover.jpg
-
-https://en.wikipedia.org/wiki/Forza_Horizon_5#/media/File:Forza_Horizon_5_cover_art.jpg
-
-https://en.wikipedia.org/wiki/Forza_Horizon_6#/media/File:Forza_Horizon_6_key_art.jpeg
